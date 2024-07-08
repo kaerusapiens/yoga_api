@@ -8,3 +8,5 @@
 `clasp login`
 
 `clasp clone <プロジェクトID>`
+
+`clasp push`
