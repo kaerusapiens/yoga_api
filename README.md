@@ -1,6 +1,10 @@
 # yoga_class
 
-install clasp
+## GASをGithubで管理する
+
+
 `npm install -g @google/clasp`
+
 `clasp login`
+
 `clasp clone <プロジェクトID>`
